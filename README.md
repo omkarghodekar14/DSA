@@ -1,2 +1,3 @@
 # DSA
-This is repository for DSA .
+This is a repository for DSA .
+Author - Omkar Ghodekar
